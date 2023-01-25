@@ -1,6 +1,6 @@
-# neurolab-hadoop-spark
+# Spark-Tut
 
-![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png)
+![Apache_Spark_logo](https://user-images.githubusercontent.com/47396584/214508711-ceca80cd-c643-4958-b186-ad445efe9bd5.svg)
 
 
 ### 1. Validate if hadoop is working or not
